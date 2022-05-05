@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;700&display=swap');
+
+body {
+  margin: 0;
+}
+
+header {
+  background: #000000;
+}
+
+header h1 {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  font-size: 50px;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+  margin:0;
+  padding-top: 7px;
+}
+
+.banner {
+  background-image: url('../img/bg-header.jpg');
+  height: 727px;
+}
+
+.black {
+  background-color: #000000;
+  padding: 3.125rem 0;
+}
+
+.description {
+  color: #FFFFFF;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  width: 66%;
+  margin: auto;
+}
+
+.description p {
+  margin: 0;
+  width: 475px;
+  display: inline-block;
+  vertical-align: top;
+  padding-right: 100px;
+  padding-top: 26px;
+}
+
+.description img {
+  height: 237px;
+}
+
+.brown {
+  background-color: #1E1A13;
+  color: #FFFFFF;
+}
+
+.brown h2 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  opacity: 1;
+  margin: 0;
+  text-align: center;
+  padding: 5rem 0 3rem 0;
+}
+
+.characteristics {
+  width: 58%;
+  margin: auto;
+  letter-spacing: 0px;
+  opacity: 1;
+  font-family: 'Raleway', sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  padding-bottom: 4.625rem;
+}
+
+.characteristic {
+  display: inline-block;
+  width: 31%;
+  padding: 5px;
+  text-align: center;
+}
+
+.characteristic i {
+  display: block;
+  text-align: center;
+  padding-bottom: 16px;
+  font-size: 40px;
+}
+
+.iguanas {
+  background-color: #000000;
+  text-align: center;
+  padding: 5rem 0;
+}
+
+.iguanas div {
+  height: 202px;
+  width: 316px;
+  display: inline-block;
+  margin: 0px 8px;
+}
+
+.iguana1 {
+  background-image: url('../img/iguana-2.jpg');
+  background-size: cover;
+}
+
+.iguana2 {
+  background-image: url('../img/iguana-3.jpg');
+  background-size: cover;
+}
+.iguana3 {
+  background-image: url('../img/iguana-4.jpg');
+  background-size: cover;
+}
+
+footer {
+  background-color: #1E1A13;
+  color: #FFFFFF;
+  text-align: center;
+  letter-spacing: 0px;
+  opacity: 1;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  padding: 2.4375rem 0;
+}
+
+
